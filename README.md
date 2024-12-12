@@ -19,7 +19,7 @@ Once the packages are installed, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nizwara/Userbottele.git
+   git clone https://github.com/Nizwara/Userbot.git
    ```
 
 2. Navigate to the cloned directory:
