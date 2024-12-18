@@ -24,7 +24,7 @@ Once the packages are installed, follow the steps below:
 
 2. Navigate to the cloned directory:
    ```bash
-   cd Userbottele
+   cd Userbot
    ```
 
 3. Install required dependencies:
